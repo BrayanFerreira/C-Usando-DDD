@@ -1,0 +1,16 @@
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.deps.json
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CopyComplete
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.pdb

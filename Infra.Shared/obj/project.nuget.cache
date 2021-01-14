@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/N6PH50Gh7vfgMbDXcUU2QnK89y1v+hsowaw4p+W3ZUn82idm1X1bwurk4lR0qz0vJAL0VGi9b6Ieq87CPlng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\Downloads\\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\\C# Usando DDD\\Infra.Shared\\Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

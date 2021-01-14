@@ -1,0 +1,12 @@
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+C:\Users\Pichau\Downloads\desenvolvendo-sua-aplicacao-csharp-usando-DDD-master\C# Usando DDD\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb
